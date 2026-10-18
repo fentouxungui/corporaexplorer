@@ -60,7 +60,7 @@ env:
   DEMO_OBJECT: ""
   DEMO_SAVE_AS: ""
   DEMO_RDATA: ""
-  EXTRA_PKGS: "corporaexplorer"
+  EXTRA_PKGS: "corporaexplorer,magrittr,dplyr"
   EXCLUDE: "rsconnect,.github"
   ARCHIVE_URLS: ""
   EXTRA_REPOS: ""
